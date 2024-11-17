@@ -1,1 +1,1 @@
-{"version":3,"file":"2-form.js","sources":["../src/js/2-form.js"],"sourcesContent":["console.log(\"Form-2\");\n"],"names":[],"mappings":"oCAAA,QAAQ,IAAI,QAAQ"}
+{"version":3,"file":"2-form.js","sources":["../src/js/2-form.js"],"sourcesContent":["const formS = document.querySelector(\".feedback-form\")\nconsole.log(formS);\nconst btn = document.querySelector(\"button\")\nconsole.log(btn);\n\n"],"names":["formS","btn"],"mappings":"oCAAA,MAAMA,EAAQ,SAAS,cAAc,gBAAgB,EACrD,QAAQ,IAAIA,CAAK,EACjB,MAAMC,EAAM,SAAS,cAAc,QAAQ,EAC3C,QAAQ,IAAIA,CAAG"}
